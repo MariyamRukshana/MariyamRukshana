@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mariyam Rukshana</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+<h3 align="center">A passionate FrontEnd web developer from India</h3>
 <img algin="right" alt="coding" width="400" src=https://tenor.com/view/programming-gif-25868426>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariyamrukshana&label=Profile%20views&color=0e75b6&style=flat" alt="mariyamrukshana" /> </p>
 
-- 🌱 I’m currently learning **Full stack web development course**
+
 
 - 👨‍💻 All of my projects are available at [file:///C:/Users/rukusana/Downloads/portfolio.pdf](file:///C:/Users/rukusana/Downloads/portfolio.pdf)
 
